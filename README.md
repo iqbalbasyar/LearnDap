@@ -1,2 +1,2 @@
 # LearnDap
-Tubes IMK : LearnDap \n Prototype Web E learning
+Tubes IMK : Prototype Web E learning
